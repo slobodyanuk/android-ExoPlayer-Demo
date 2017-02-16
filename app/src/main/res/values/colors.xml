@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="violet">#7F00FF</color>
+
+    <color name="progress_gray">#FFD8D8D8</color>
+    <color name="progress_gray_dark">#FF383838</color>
+    <color name="default_blue_light">#5CF4FF</color>
+    <color name="default_blue_dark">#5cbeff</color>
+    <color name="default_blue_transparent">#4d5CF4FF</color>
+    <color name="default_violet">#32064C</color>
+
+</resources>

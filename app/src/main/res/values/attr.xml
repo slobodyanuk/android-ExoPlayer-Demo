@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="progress" format="float"/>
+    <attr name="max" format="integer"/>
+    <attr name="enabled" format="boolean"/>
+    <attr name="text" format="string"/>
+    <attr name="textSize" format="integer"/>
+    <attr name="textColor" format="color"/>
+
+    <declare-styleable name="SeekArc">
+        <attr name="thumb" format="reference"/>
+        <attr name="progress"/>
+        <attr name="max"/>
+        <attr name="enabled"/>
+        <attr name="seekArcWidth" format="integer"/>
+        <attr name="progressArcWidth" format="integer"/>
+        <attr name="arcColor" format="color"/>
+        <attr name="progressArcColor" format="color"/>
+        <attr name="startAngle" format="integer"/>
+        <attr name="sweepAngle" format="integer"/>
+    </declare-styleable>
+
+    <declare-styleable name="SeekArcTheme">
+        <attr name="seekArcStyle" format="reference"/>
+    </declare-styleable>
+
+    <declare-styleable name="WaveView">
+        <attr name="progress"/>
+        <attr name="max"/>
+        <attr name="progressWidth" format="float"/>
+        <attr name="progressColor" format="color"/>
+        <attr name="waveSrc" format="integer"/>
+        <attr name="enabled"/>
+    </declare-styleable>
+
+    <declare-styleable name="ProgressButton">
+        <attr name="progressColor"/>
+        <attr name="buttonColor" format="color"/>
+        <attr name="textColor"/>
+        <attr name="text"/>
+        <attr name="textSize"/>
+    </declare-styleable>
+
+
+</resources>
